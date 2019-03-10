@@ -1,4 +1,4 @@
-# factory-pattern-example
+# Factory design pattern example
 An example to demonstrate factory design pattern
 
 ### Use Case
